@@ -1,5 +1,7 @@
 import { useState } from 'react'
-import Mycounter from './Components/Mycounter'
+// import Al from './Components/Al'
+// import Mycounter from './Components/Mycounter'
+import Fetchcard from './Components/Fetchcard'
 
 
 
@@ -8,7 +10,9 @@ function App() {
 
   return (
     <>
-     <Mycounter/>
+    {/* <Al/> */}
+    <Fetchcard/>
+     {/* <Mycounter/> */}
     </>
   )
 }
