@@ -1,0 +1,66 @@
+[
+    {
+        "id": 1,
+        "name": "Masum",
+        "email": "masum@gmail.com",
+        "intro": "Masum is a frontend developer with expertise in React.",
+        "age": 28,
+        "experience": "3 years of experience in web development.",
+        "hobbies": ["Playing football", "Reading tech blogs"],
+        "education": "Bachelor's degree in Computer Science",
+        "location": "New Delhi, India",
+        "course": [
+            {
+                "language": "React"
+            }
+        ]
+    },
+    {
+        "id": 2,
+        "name": "Manav",
+        "email": "manv@gmail.com",
+        "intro": "Manav is a full-stack developer with a focus on JavaScript.",
+        "age": 26,
+        "experience": "4 years of experience in full-stack development.",
+        "hobbies": ["Travelling", "Learning new programming languages"],
+        "education": "Master's degree in Information Technology",
+        "location": "Mumbai, India",
+        "course": [
+            {
+                "language": "Javascript"
+            }
+        ]
+    },
+    {
+        "id": 3,
+        "name": "Param",
+        "email": "param@gmail.com",
+        "intro": "Param is a Python developer specializing in data science.",
+        "age": 30,
+        "experience": "5 years of experience in Python development.",
+        "hobbies": ["Cycling", "Playing chess"],
+        "education": "Bachelor's degree in Data Science",
+        "location": "Bangalore, India",
+        "course": [
+            {
+                "language": "Python"
+            }
+        ]
+    },
+    {
+        "id": 4,
+        "name": "Badal",
+        "email": "badal@gmail.com",
+        "intro": "Badal is a React developer passionate about UI/UX design.",
+        "age": 27,
+        "experience": "3 years of experience in frontend development.",
+        "hobbies": ["Drawing", "Listening to music"],
+        "education": "Bachelor's degree in Software Engineering",
+        "location": "Ahmedabad, India",
+        "course": [
+            {
+                "language": "React"
+            }
+        ]
+    }
+]
