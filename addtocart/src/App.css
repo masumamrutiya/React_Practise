@@ -92,8 +92,9 @@ h4 {
 
 /* Title Styling */
 h1 {
-  font-size: 3rem;
+  font-size: 60px !important;
   font-weight: bold;
+  font-weight: 600 !important;
   background: linear-gradient(90deg, #0d160f, #008080);
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
