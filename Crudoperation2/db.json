@@ -1,12 +1,6 @@
 {
   "use": [
     {
-      "id": 1,
-      "name": "Harsh",
-      "email": "harsh@gmail.com",
-      "age": "22"
-    },
-    {
       "id": 2,
       "name": "Nishit",
       "email": "nishit@gmail.com",
@@ -31,16 +25,10 @@
       "age": "19"
     },
     {
-      "id": 6,
-      "name": "kush",
-      "email": "kush@gmail.com",
-      "age": "20"
-    },
-    {
-      "name": "Satyajit",
-      "email": "Satyajit@gmail.com",
-      "age": "24",
-      "id": 7
+      "id": 7,
+      "name": "Harsh",
+      "email": "Harsh@gmail.com",
+      "age": "23"
     }
   ]
 }
